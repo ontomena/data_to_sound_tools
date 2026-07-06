@@ -1,0 +1,14 @@
+{
+  "file_path": null,
+  "out_dir": "",
+  "out_stem": "",
+  "tempo": "120",
+  "duration": "250",
+  "velocity": "80",
+  "midi_low": 48,
+  "midi_high": 84,
+  "scale": "Chromatic",
+  "channel": 1,
+  "pitch_col": "",
+  "vel_col": "(none)"
+}
