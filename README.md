@@ -23,6 +23,7 @@ You are free to share and adapt this work for any purpose, provided you give app
 ## Attribution
 
 Developed by **Simon Bradley, PhD**
+
 *Magnet Opus* — geomagnetic sonification project
 
 Geomagnetic data for the original project courtesy
