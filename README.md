@@ -26,7 +26,7 @@ Developed by **Simon Bradley, PhD**
 
 *Magnet Opus* — geomagnetic sonification project
 
-Geomagnetic data for the original project courtesy
+Geomagnetic data for the original project courtesy of the British Geological Survey (BGS) Geomagnetism Team, Eskdalemuir Observatory.
 
 ---
 
