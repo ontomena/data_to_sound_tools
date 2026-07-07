@@ -254,7 +254,12 @@ The toolkit is not limited to geomagnetic data — any time-series CSV with nume
 
 ## Project Context
 
-This toolkit was developed for **Magnet Opus** — a sonification of Earth's geomagnetic field using First Order Ambisonics (FOA), an 8-channel speaker cube, and data from BGS Eskdalemuir Observatory. The project received funding from Arts Council England (DYCP award) and was presented at Full of Noises festival, Barrow, October 2024.
+This toolkit was developed for **Magnet Opus** — a sonification of geomagnetic field data using First Order Ambisonics (FOA), an 8-channel speaker cube, and data from the British Geological Survey, Eskdalemuir Observatory. The project received funding from Arts Council England (DYCP award) and was presented at Full of Noises sharing event, Barrow, 21st March, 2026.
+
+---
+
+## Disclaimer
+These scripts are provided as-is, without warranty of any kind. The author accepts no responsibility for any damage to your system, data loss, or unintended behaviour within Reaper or any other software resulting from their use. Always back up your Reaper projects before applying automation scripts. Use at your own risk.
 
 ---
 
@@ -265,3 +270,8 @@ This toolkit was developed for **Magnet Opus** — a sonification of Earth's geo
 [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Developed by **Simon Bradley, PhD**
+
+---
+
+## Contact
+Via webform at https://www.displacementactivities.org/contact/

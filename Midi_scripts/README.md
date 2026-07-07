@@ -295,7 +295,7 @@ C5  = 72    C6  = 84    C7  = 96
 
 ## Project Context
 
-The Magnet Opus toolkit was developed for a geomagnetic sonification project using data from Eskdalemuir Geomagnetic Observatory (BGS), rendered as First Order Ambisonics in REAPER with an 8-channel speaker cube. Supported by Arts Council England DYCP funding; presented at Full of Noises festival.
+The Magnet Opus toolkit was developed for a geomagnetic sonification project using data from Eskdalemuir Geomagnetic Observatory (BGS), rendered as First Order Ambisonics in REAPER with an 8-channel speaker cube. Supported by Arts Council England DYCP funding; presented at Full of Noises sharing event, Barrow, 21st March, 2026.
 
 ---
 
@@ -309,6 +309,35 @@ The Magnet Opus toolkit was developed for a geomagnetic sonification project usi
 | scb_data_to_midi_v1_1 | 2026 | Scales, mapping modes, amplitude/offset controls |
 | scb_data_to_midi_v1_0 | 2026 | Initial release — MIDI notes only |
 | scb_data_to_deluge_notes_v1_0 | 2026 | Standalone Deluge MIDI clip generator |
+
+---
+
+## Disclaimer
+These scripts are provided as-is, without warranty of any kind. The author accepts no responsibility for any damage to your system, data loss, or unintended behaviour within Reaper or any other software resulting from their use. Always back up your Reaper projects before applying automation scripts. Use at your own risk.
+
+---
+
+## Licence
+
+**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+
+You are free to share and adapt this work for any purpose, provided you give appropriate credit and distribute any adaptations under the same licence.
+
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+## Attribution
+
+Developed by **Simon Bradley, PhD**
+*Magnet Opus* — geomagnetic sonification project
+
+Geomagnetic data for the original project courtesy of the British Geological Survey (BGS) Geomagnetism Team, Eskdalemuir Observatory.
+
+---
+
+## Contact
+Via webform at https://www.displacementactivities.org/contact/
 
 ---
 

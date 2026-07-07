@@ -2,7 +2,7 @@
 
 **Reaper Lua scripts for mapping geomagnetic field data to audio automation**
 
-Three scripts for converting time-series geomagnetic data (CSV) into Reaper envelope automation, take envelope automation, and MIDI CC events. Developed as part of the *Magnet Opus* project — a geomagnetic sonification work using data from magnetic observatories.
+Three scripts for converting time-series geomagnetic data (CSV) into Reaper envelope automation, take envelope automation, and MIDI CC events. Developed as part of the *Magnet Opus* project — a geomagnetic sonification work using data from magnetic observatories. The work was funded by Arts Council England, Develop your Creative Practice (DYCP) grant.Presented at Full of Noises sharing event, Barrow, 21st March, 2026.
 
 ---
 
@@ -211,6 +211,11 @@ Presets are plain JSON and can be copied between machines.
 
 ---
 
+## Disclaimer
+These scripts are provided as-is, without warranty of any kind. The author accepts no responsibility for any damage to your system, data loss, or unintended behaviour within Reaper or any other software resulting from their use. Always back up your Reaper projects before applying automation scripts. Use at your own risk.
+
+---
+
 ## Licence
 
 **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
@@ -237,3 +242,9 @@ Geomagnetic data for the original project courtesy of the British Geological Sur
 | Track v2.5 / Take v3.0 / MIDI CC v2.0 | March 2026 | Preset system, CSV parser fixes, MIDI CC window rewrite |
 | Track v2.4 / Take v2.x / MIDI CC v1.0 | 2025 | Multi-envelope support, Points/Rate mode |
 | v1.x | 2024 | Initial release |
+
+---
+
+## Contact
+Via webform at https://www.displacementactivities.org/contact/
+
