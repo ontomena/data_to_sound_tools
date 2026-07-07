@@ -170,16 +170,48 @@ Geomagnetic Data Processor   (clean + segment)
 
 ---
 
-## Data & Attribution
+## Project Context
 
-Developed for the **Magnet Opus** project. Geomagnetic data should be obtained from the relevant observatory or data provider and used in accordance with their terms.
-
-Provided for personal and artistic use.
-
+The Magnet Opus toolkit was developed for a geomagnetic sonification project using data from Eskdalemuir Geomagnetic Observatory (BGS), rendered as First Order Ambisonics in REAPER with an 8-channel speaker cube. Supported by Arts Council England DYCP funding; presented at Full of Noises sharing event, Barrow, 21st March, 2026.
 ---
 
 ## Version Summary
 
-**v7.0** — all five operations fully implemented; multi-file concatenation for clean Bartels extraction across contiguous files.
+**v7.0** — all five operations fully implemented; multi-file concatenation for Bartels extraction across contiguous files.
 
 Earlier lineage: v5.0 (tabbed interface, Bartels auto-detection) → v6.0 → v7.0.
+
+
+---
+
+## Disclaimer
+These scripts are provided as-is, without warranty of any kind. The author accepts no responsibility for any damage to your system, data loss, or unintended behaviour within Reaper or any other software resulting from their use. Always back up your Reaper projects before applying automation scripts. Use at your own risk.
+
+---
+
+## Licence
+
+**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+
+You are free to share and adapt this work for any purpose, provided you give appropriate credit and distribute any adaptations under the same licence.
+
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+## Attribution
+
+Developed by **Simon Bradley, PhD**
+*Magnet Opus* — geomagnetic sonification project
+
+Geomagnetic data for the original project courtesy of the British Geological Survey (BGS) Geomagnetism Team, Eskdalemuir Observatory.
+
+---
+
+## Contact
+Via webform at https://www.displacementactivities.org/contact/
+
+---
+
+*SCB Magnet Opus Toolkit — Simon Bradley*
+
